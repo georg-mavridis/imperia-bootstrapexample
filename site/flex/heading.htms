@@ -1,0 +1,8 @@
+DESCRIPTION: heading
+HELPTEXT: 
+AUTHOR:  
+LOAD: AJAX
+
+        <h1 class="my-4"><input name="IMPERIA:heading" value="Page Heading">
+          <small><input name="IMPERIA:sub_heading" value="Secondary Text"></small>
+        </h1>
