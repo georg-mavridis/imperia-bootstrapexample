@@ -10,7 +10,7 @@
 <!--template-description:Bootstrap-Seite-->
   <div class="container">
     <div class="row">
-      <!--CODEINLUDE:blog.htms-->
+      <!--CODEINCLUDE:blog.htms-->
       <!--CODEINCLUDE:widgets.htms-->
     </div>
   </div>
