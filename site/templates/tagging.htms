@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--CODEINCLUDE:head.htms-->
+
+<body>
+    <!--template-description:Tagging der Dokumente-->
+    <div class="container">
+        <!--formstart-->
+        <div class="row">
+            <div class="col-xs-12">
+                <h1> <!--XX-TEXT:title--></h1>
+            </div>
+        </div>
+        <div class="row">
+        <div class="col-xs-1-12">
+            <?imperia tags_add
+            realm: Category
+            add_tags: 1
+            placeholder_text: Tragen Sie die Rubrik ein
+            ?>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-1-12">
+            <?imperia tags_add
+                add_tags: 1
+                realm: Autor
+                placeholder_text: Tragen Sie hier den Autor ein
+            ?>
+        </div>
+    </div>
+      <!--formend-->
+  </div>
+</body>
+</html>
