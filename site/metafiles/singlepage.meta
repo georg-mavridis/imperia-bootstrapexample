@@ -1,0 +1,9 @@
+TITLE = "Startseite"
+AUTHOR = " "
+HELPTEXT = "This file has been generated automatically."
+
+
+PRINT "Filename:<!--SECTION:DIRECTORY-->/<!--SECTION:FILENAME-->"
+
+INPUT "44:title::Document title"
+INPUT "44:keywords:Sample, File, Test:Keywords"

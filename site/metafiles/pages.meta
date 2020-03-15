@@ -1,0 +1,10 @@
+TITLE = "Seiten"
+AUTHOR = " "
+HELPTEXT = "This file has been generated automatically."
+
+HIDDEN "directory:<!--SECTION:DIRECTORY-->/<!--DOC_ID:%06u-->"
+
+PRINT "Filename:<!--SECTION:DIRECTORY-->/<!--DOC_ID:%06u-->/<!--SECTION:FILENAME-->"
+
+INPUT "44:title::Document title"
+INPUT "44:keywords:Sample, File, Test:Keywords"
