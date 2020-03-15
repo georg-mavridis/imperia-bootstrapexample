@@ -1,0 +1,21 @@
+DESCRIPTION: Suche
+HELPTEXT: 
+AUTHOR:  
+VALIDCODES: widget
+LOAD: AJAX
+
+        <!-- Search Widget -->
+        <div class="card my-4">
+          <h5 class="card-header"><input name="IMPERIA:search_heading" value="Search"></h5>
+          <div class="card-body">
+            <div class="input-group">
+              <form action="">
+              <input type="text" class="form-control" placeholder="Search for...">
+              <span class="input-group-btn">
+                <button class="btn btn-secondary" type="button">Go!</button>
+              </span>
+              </form>
+            </div>
+          </div>
+        </div>
+
