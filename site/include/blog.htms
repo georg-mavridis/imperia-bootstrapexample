@@ -1,14 +1,5 @@
       <div class="col-md-8">
 
-        <!--INSERT_FLEXMODULE:INDEX=100:DND=1:JS_OPERATIONS=1-->
-        <!-- Pagination -->
-        <ul class="pagination justify-content-center mb-4">
-          <li class="page-item">
-            <a class="page-link" href="#">&larr; Older</a>
-          </li>
-          <li class="page-item disabled">
-            <a class="page-link" href="#">Newer &rarr;</a>
-          </li>
-        </ul>
+        <!--INSERT_FLEXMODULE:INDEX=100:DND=1:JS_OPERATIONS=1:VALIDCODE=blog-->
 
       </div>

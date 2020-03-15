@@ -1,6 +1,7 @@
-HELPTEXT: 
 DESCRIPTION: Blog Post
+HELPTEXT: 
 AUTHOR:  
+VALIDCODES: blog
 LOAD: AJAX
 
         <div class="card mb-4">

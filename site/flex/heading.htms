@@ -1,6 +1,7 @@
 DESCRIPTION: heading
 HELPTEXT: 
 AUTHOR:  
+VALIDCODES: blog
 LOAD: AJAX
 
         <h1 class="my-4"><input name="IMPERIA:heading" value="Page Heading">
