@@ -9,8 +9,11 @@
   <!--IMPERIA:ONECLICKEDIT-->
 
   <!-- Bootstrap core CSS -->
+  #IF(<!--XX-editmode-->)
+  <link href="/editmode/bootstrap.css" rel="stylesheet">
+  #ELSE
   <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
+  #ENDIF
   <!-- Custom styles for this template -->
   <link href="/css/blog-home.css" rel="stylesheet">
 
